@@ -4,6 +4,6 @@
 ```
 Simple GUI Database system made on tkinter which stores student info.
 ```
-# Screenshot
-![alt text]()
+# Screenshots
+![alt text](https://github.com/akhileshmanish13/Student-management-system/blob/master/sms.PNG)
 ![alt text](https://github.com/akhileshmanish13/Student-management-system/blob/master/sms%202.PNG)
